@@ -1,0 +1,11 @@
+Karla Sofia Hernandez Gamez
+Actividad 1: Algoritmo para preparar un sandwich 
+1. Incio 
+2. Comprar pan para sandwiches.
+3. Colocar dos rebanadas de pan en un plato.
+4. Untar crema/mantequilla/mayonesa en las rebanadas del pan.
+5. (opcional) poner una hoja de rechuja en el pan.
+5. Colocar una rebanada de jamon de pavo/cerdo en una de las rebanadas del pan.
+6. (opcional) poner chiles/salsa en el sandiwch.
+7. Juntar las rebanads con los ingredientes.
+8. Fin
