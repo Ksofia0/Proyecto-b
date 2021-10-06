@@ -16,7 +16,7 @@ Dadas tus calificaciones, tu promedio seria de 6
 
 Algoritmo 
 1. Inicio
-2. Definir point1, point2, point3, point4, point5
+2. Definir point1, point2, point3, point4, point5, promedio
 3. Imprimir "Dame el point 1"
 4. hacer point1 = entrada del usuario
 5. Imprimir "Dame el point 2"

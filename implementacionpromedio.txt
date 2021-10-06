@@ -1,0 +1,32 @@
+# 6 de Octubre de 2021
+# Este programa realiza el promedio de 5 calificaciones dadas por el usuario 
+# Autor: Karla Sofía Hernández Gámez
+
+Algoritmo 
+# 1. Inicio
+# 2. Definir point1, point2, point3, point4, point5, promedio
+# 3. Imprimir "Dame el point 1"
+print("Dame el point 1:")
+# 4. hacer point1 = entrada del usuario
+point1 = float(imput())
+# 5. Imprimir "Dame el point 2"
+print("Dame el point 2:")
+# 6. hacer point2 = entrada del usuario
+point2 = float(imput())
+# 7. Imprimir "Dame el point 3"
+print("Dame el point 3:")
+# 8. hacer point3 = entrada del usuario
+point3 = float(imput())
+# 9. Imprimir "Dame el point 4"
+print("Dame el point 4:")
+# 10. hacer point4 = entrada del usuario
+point4 = float(imput())
+# 11. Imprimir "Dame el point 5"
+print("Dame el point 5:")
+# 12. hacer point5 = entrada del usuario
+point5 = float(imput())
+# 13. promedio = (point1 + point2 + point3 + point4 + point5) / 5
+promedio = point1 + point2 + point3 + point4 + point5 / 5
+# 14. Imprimir "Dadas tus calificaciones, tu promedio seria de" promedio
+print("Dadas tus calificaciones tu promedio seria de", promedio)
+# 15. Fin
