@@ -1,0 +1,6 @@
+Python: Es un lenguaje que soporta distintos estilos de programación, por ejemplo la programación imperativa o la programación orientada a objetos.
+Instrucciones Básicas
+"Imprimir" texto en la consola: Utilizamos la instrucción "print" para enviar texto a la consola. Ejemplo.  
+Recibir texto desde el teclado: La función "imput()" nos ayuda a recibir el texto que escriba el usuario.
+Tipos de datos: Aunque todos los datos que guardamos se encuentran en forma de unos y ceros, los podemos identificar en varios tipos, entre ellos: textos (strings), numeros (enteros y decimales), secuencias (listas, tuplas, rangos), booleanos (verdadero o falso).
+Operadores: 
