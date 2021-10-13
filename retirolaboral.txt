@@ -1,0 +1,7 @@
+Actividad: Crea un algoritmo que resuelva un retiro laboral
+
+1. Inicio
+2. Colocar edad en años = e1
+4. Insertar edad en la que desea retirarse del trabajo laboral dentro de unos años = e2
+5. Con el año actual (2021), realizar operaciones (resta e2 - e1 = r1) y (suma r1 + 2021 = r2) para mostrar:
+6. Años que faltan para el retiro (r1) y año de retiro (r2)
