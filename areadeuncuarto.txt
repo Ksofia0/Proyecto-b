@@ -1,0 +1,12 @@
+# En este programa se va a calcular el área de un cuarto
+# 3A Karla Sofía Hernández Gámez 
+
+1. Incio
+2. print("¿Cuál es el largo de cuarto en metros?")
+3. largo = int(input())
+4. print("¿Cuál es el ancho de cuarto en metros?")
+5. ancho = int(input())
+6. area = largo x ancho
+7. pies = area x 10.764
+8. print("Mide", area, "metros y" pies, "pies")
+9. Fin
